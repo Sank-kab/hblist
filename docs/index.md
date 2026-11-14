@@ -37,3 +37,4 @@ hero:
 | RetroArch                  | [Yes](https://github.com/NerdsMcGee/retroarch-s2)                          | GitHub   | Emulation     | NerdsMcGee, libretro         | Application |
 | Donut                      | [Yes](https://github.com/Rix565/ouncedonut/)                               | GitHub   | Fun           | Rix565                       | Application |
 | Bad Apple!                 | [Yes](https://github.com/souldbminerr/bad-apple-switch/)                   | GitHub   | Fun           | Souldbminer                  | Application |
+| KaiTube                    | [Yes](https://github.com/Sank-kab/KaiTube)                                 | GitHub   | Streaming     | Sank-kab                     | Application |
